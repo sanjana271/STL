@@ -60,7 +60,7 @@ int main()
 
     cout<<"after erase "<<d.size()<<endl;
 
-
-
-
+  //size become zero after you erase all 
+  //but your MAX_SIZE i.e. memory allocated to deque will be same at start and end.
+   
 }
