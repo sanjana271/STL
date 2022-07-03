@@ -1,3 +1,9 @@
+//Deque means when you are able to perform push and pop i.e. insertion and deletion on both ends i.e. from front as well as back.
+
+//As arrays and vectors have contiguous memory allocation but in deque have multiple fixed static arrays and track in which arrays data is placed.
+
+//you can implement it by creating a array and deque is  dynamic i.e. size can be increased. and random access is also possible in it.
+
 #include<iostream>
 
 //include library
