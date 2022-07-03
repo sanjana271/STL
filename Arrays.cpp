@@ -1,3 +1,6 @@
+//Similar data type and stored in contiguous memory location
+
+
 #include<iostream>
 
 //for arrays 1st include liabrary:
