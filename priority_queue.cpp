@@ -68,3 +68,4 @@ int main()
     //empty
     cout<<"empty or not "<<mini.empty()<<endl; 
 }
+   //1 i.e. true its empty as every element is removed after printing. 
