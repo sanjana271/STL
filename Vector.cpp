@@ -1,3 +1,6 @@
+//dynamic array same as array but as soon as its full and you want to insert more elements ,it will double its size. i.e it will create a new vector with double size and it will copy all the elements from old vector and dump old vector
+
+
 #include<iostream>
 
 //for vector include vector library
